@@ -1,3 +1,5 @@
+
+# AUTHER aashish kumar shyam bihari sudhama upadhyay(VISHNU RAJ CYWAR)
 from tkinter import *
 import pyttsx3
 import PyPDF2
